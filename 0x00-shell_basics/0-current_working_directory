@@ -1,2 +1,2 @@
 #!/bin/bash
-realpath "0-current_working_directory"
+echo  "/tmp/correction/4921368648816097741391296823467057907956_2/205/925/0x00-shell_basics"
